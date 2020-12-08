@@ -4,10 +4,10 @@
 This was my submission for a data project which I had to complete as a part of the internship selection process at Nashville SC. 
 
 
-You can read the submitted report [here](https://github.com/prateek-senapati/Nashville-SC-Data-Project/blob/master/Nashville%20SC%20Data%20Project.pdf).
+* You can read the submitted report [here](https://github.com/prateek-senapati/Nashville-SC-Data-Project/blob/master/Nashville%20SC%20Data%20Project.pdf).
 
 
-You can find the Jupyter Notebook for this data project [here](https://github.com/prateek-senapati/Nashville-SC-Data-Project/blob/master/Nashville%20SC%20Data%20Project.ipynb).
+* You can find the Jupyter Notebook for this data project [here](https://github.com/prateek-senapati/Nashville-SC-Data-Project/blob/master/Nashville%20SC%20Data%20Project.ipynb).
 
 
 ### *Note:*
