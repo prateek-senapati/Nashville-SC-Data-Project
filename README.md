@@ -1,7 +1,7 @@
-# Nashville SC Data Project
+# Nashville SC Data Project (Fall 2020 Remote Internship)
 
 
-This was my submission for a data project which I had to complete as a part of the internship selection process at Nashville SC. 
+This was my submission for a data project which I had to complete as a part of the Fall 2020 Remote Internship selection process at Nashville SC. 
 
 
 * You can read the submitted report [here](https://github.com/prateek-senapati/Nashville-SC-Data-Project/blob/master/Nashville%20SC%20Data%20Project.pdf).
